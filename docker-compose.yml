@@ -15,6 +15,7 @@ app:
   expose:
     - 8080
 
+
 db:
   image: postgres:latest
   environment:
